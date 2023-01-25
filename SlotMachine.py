@@ -9,7 +9,7 @@ ROWS = 3
 COLS = 3
 
 symbol_count = {
-    "A":2,
+    "A":3,
     "B":4,
     "C":6,
     "D":8
